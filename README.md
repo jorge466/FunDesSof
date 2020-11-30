@@ -1,1 +1,2 @@
-# FunDesSof
+FUNDAMENTOS DE SOFTWARE 
+Probando git
